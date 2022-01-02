@@ -2,10 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/laurasiiia">
-    <img align="left" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/8afJv1SnB0OJscgb5w/giphy.gif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurasiiia&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/8afJv1SnB0OJscgb5w/giphy.gif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasiiia&layout=compact&langs_count=7&theme=omni"/>
+    <img align="left" alt="totoro-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/30c4Y1lL3skAAAAC/ghibli-totoro.gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurasiiia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="eva01e-pic" height="150" style="border-radius:50px;" src="https://i.kym-cdn.com/photos/images/original/000/595/082/19e.gif">
+    <img align="left" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yvGNPPoeZckAAAAC/darling-in.gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasiiia&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="right" alt="noface-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/W_-Y3VF_8tYAAAAC/spirited-away-no-face.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/8afJv1SnB0OJscgb5w/giphy.gif">
