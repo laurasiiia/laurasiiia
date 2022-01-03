@@ -18,10 +18,8 @@
 </div>
   
 #
-  
-  
-    
-  Hello there! 🌸
+
+  ##### ✨ Hello there! Welcome to my profile! I'm a 19 year old web development student :) I dropped off Nursing College to follow my dream to study the incredible and vast world of technology! 👾 I have a passion to creating experiences and expressing feelings into every piece of creation. 🎨 Currently studing Front-End but looking foward to learn everything about Back-End too! 🌱 Thanks for stopping by, see you around! 🌸
   
   
   #
