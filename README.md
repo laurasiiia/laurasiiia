@@ -6,7 +6,6 @@
     <img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yvGNPPoeZckAAAAC/darling-in.gif">
     <img align="center" alt="eva01e-pic" height="150" style="border-radius:50px;" src="https://i.kym-cdn.com/photos/images/original/000/595/082/19e.gif">
     <img align="center" alt="noface-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/W_-Y3VF_8tYAAAAC/spirited-away-no-face.gif">
-    <img align="center" alt="rain-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/7bAOdcsuSuwAAAAC/rain-anime.gif">
     </div>
   
   ##
