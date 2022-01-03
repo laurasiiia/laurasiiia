@@ -22,11 +22,11 @@
 <div style="display: inline_block"><br>
 
   
-  <img align="left" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/8afJv1SnB0OJscgb5w/giphy.gif">
+  <img align="left" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
   <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/8afJv1SnB0OJscgb5w/giphy.gif">
+  <img align="right" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
 </div>
   
   #
@@ -38,10 +38,10 @@
   
   </div>
   
-  #
+<!--   #
   
   <div> 
     
   ![Snake animation](https://github.com/laurasiiia/laurasiiia/blob/output/github-contribution-grid-snake.svg)
  
-  </div>
+  </div> -->
