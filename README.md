@@ -1,13 +1,12 @@
 ## 🐛👾 Hello! I'm Laura, a web development student! 👾🐛
 
 <div align="center">
-  <a href="https://github.com/laurasiiia">
-    <img align="center" alt="totoro-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/30c4Y1lL3skAAAAC/ghibli-totoro.gif">
-    <img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yvGNPPoeZckAAAAC/darling-in.gif">
-    <img align="center" alt="eva01e-pic" height="150" style="border-radius:50px;" src="https://i.kym-cdn.com/photos/images/original/000/595/082/19e.gif">
-    <img align="center" alt="noface-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/W_-Y3VF_8tYAAAAC/spirited-away-no-face.gif">
-    </div>
-  
+
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/O7b01gFko9Ohy/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yvGNPPoeZckAAAAC/darling-in.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/eHQ5BsgBIBIGI/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/sxtxMmbHzBYru/giphy.gif">
+
   ##
   
   <div>
@@ -19,18 +18,19 @@
   
 #
 
-  #### ✨ Hello there! Welcome to my profile! I'm a 20 year old web development student :) I dropped off Nursing College to follow my dream to study the world of technology! 👾 I have a passion of creating experiences and expressing feelings into every piece of creation. 🎨 Currently studing Front-End and engaging on C# and VB.NET! 🌱 Thanks for stopping by, see you around! 🌸
+  #### ✨ Hello there! Welcome to my profile! I'm a 20 year old Automation Technology student :)👾 I have a passion creating and learning new things. 🎨 Currently studing C# and VB.NET while doing an internship in RPA 🌱 Thanks for stopping by, see you around! 🌸
   
   
   #
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" ><br>
 
-  
   <img align="left" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
+
   <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
   <img align="right" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
 </div>
   
@@ -42,11 +42,3 @@
   <a href = "mailto:lauraloyolarpeixoto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
   </div>
-  
-<!--   #
-  
-  <div> 
-    
-  ![Snake animation](https://github.com/laurasiiia/laurasiiia/blob/output/github-contribution-grid-snake.svg)
- 
-  </div> -->
