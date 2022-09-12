@@ -18,7 +18,7 @@
   
 #
 
-  #### ✨ Hello there! Welcome to my profile! I'm a 20 year old Automation Technology student :)👾 I have a passion for creating and learning new things. 🎨 Currently studing C# and VB.NET while doing an internship in RPA 🌱 Thanks for stopping by, see you around! 🌸
+  #### ✨ Hello there! Welcome to my profile! I'm a 20 year old Automation Technology student :)👾 I have a passion for creating and learning new things. 🎨 Currently studying C# and VB.NET while doing an internship in RPA 🌱 Thanks for stopping by, see you around! 🌸
   
   
   #
