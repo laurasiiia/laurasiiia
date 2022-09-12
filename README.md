@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/O7b01gFko9Ohy/giphy.gif">
+<img align="left" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/O7b01gFko9Ohy/giphy.gif">
 <img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yvGNPPoeZckAAAAC/darling-in.gif">
 <img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/eHQ5BsgBIBIGI/giphy.gif">
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/sxtxMmbHzBYru/giphy.gif">
+<img align="right" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/sxtxMmbHzBYru/giphy.gif">
 
   ##
   
