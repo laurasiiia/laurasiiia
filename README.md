@@ -1,4 +1,4 @@
-## 🐛👾 Hello! I'm Laura, a web development student! 👾🐛
+## 🐛👾 Hello! I'm Laura, a Robot Process Automation intern! 👾🐛
 
 <div align="center">
 
