@@ -30,6 +30,10 @@
   <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="laura-c#" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="laura-.net" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
+          
+          
  
   <img align="right" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
 </div>
