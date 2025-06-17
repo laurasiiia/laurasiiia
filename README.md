@@ -18,7 +18,7 @@
   
 #
 
-  #### ✨ Hello there! Welcome to my profile! I'm a 22 year old computer science student :)👾 I have a passion for creating and learning new things. 🎨 Currently studying Generative AI! 🌱 Thanks for stopping by, see you around! 🌸
+  #### ✨ Hello there! Welcome to my profile! I'm a 23 year old computer science student :)👾 I have a passion for creating and learning new things. 🎨🌱 Thanks for stopping by, see you around! 🌸
   
   
   #
